@@ -1,10 +1,10 @@
-Project work assignment
+Project work assignment, testing
 -----------------------
   - project work description will be added here later on
   - testing markdown syntax
   - this document is written with [dillinger.io]
   - markdown documentation can be found [here]
-
+  - just adding some text
 
 [dillinger.io]: http://dillinger.io/
 [here]: http://daringfireball.net/projects/markdown/syntax
