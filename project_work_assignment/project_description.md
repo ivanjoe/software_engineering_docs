@@ -1,4 +1,4 @@
-Project work assignment, testing
+﻿Project work assignment, testing
 -----------------------
 
 BRANCHE PA
@@ -7,7 +7,6 @@ BRANCHE PA
   - project work description will be added here later on
   - testing markdown syntax
   - editing in between
-  - this document is written with [dillinger.io]
   - markdown documentation can be found [here]
   - just adding some text
 
@@ -21,3 +20,21 @@ BRANCHE PA
 1. one
 123. two
 
+Now I'm not messing with Patrick anymore.
+I'd like to soon merge this
+
+1. one aa
+123. two  bb 
+1. three cc
+5. Olli's addition ss
+6. 
+egaupeqguopge
+åea
+äwe
+fågewfaj'pwawfa
+a
+wfa
+ipwfa
+kpåfw
+fawfa
+¨k
