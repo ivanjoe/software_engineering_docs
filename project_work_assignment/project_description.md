@@ -11,4 +11,4 @@ Project work assignment, testing
 
 **Below a test image:**
 
-![Lepp‰vaara building](http://www.metropolia.fi/fileadmin/user_upload/Hakusivusto/toimipisteet/vanhamaantie6.png)
+![Lepp√§vaara building](http://www.metropolia.fi/fileadmin/user_upload/Hakusivusto/toimipisteet/vanhamaantie6.png)
