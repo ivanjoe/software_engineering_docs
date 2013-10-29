@@ -14,7 +14,21 @@ Project work assignment, testing
 
 ![Leppävaara building](http://www.metropolia.fi/fileadmin/user_upload/Hakusivusto/toimipisteet/vanhamaantie6.png)
 
-1. one
-123. two
-1. three
-5. Olli's addition
+Now I'm not messing with Patrick anymore.
+I'd like to soon merge this
+
+1. one aa
+123. two  bb 
+1. three cc
+5. Olli's addition ss
+6. 
+egaupeqguopge
+åea
+äwe
+fågewfaj'pwawfa
+a
+wfa
+ipwfa
+kpåfw
+fawfa
+¨k
