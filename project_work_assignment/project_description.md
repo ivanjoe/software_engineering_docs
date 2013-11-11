@@ -17,18 +17,3 @@ Project work assignment, testing
 Now I'm not messing with Patrick anymore.
 I'd like to soon merge this
 
-1. one aa
-123. two  bb 
-1. three cc
-5. Olli's addition ss
-6. 
-egaupeqguopge
-åea
-äwe
-fågewfaj'pwawfa
-a
-wfa
-ipwfa
-kpåfw
-fawfa
-¨k
