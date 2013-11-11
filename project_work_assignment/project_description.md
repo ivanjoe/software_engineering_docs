@@ -14,6 +14,8 @@ Project work assignment, testing
 
 ![Leppävaara building](http://www.metropolia.fi/fileadmin/user_upload/Hakusivusto/toimipisteet/vanhamaantie6.png)
 
+**There is another secret line**
+
 Now I'm not messing with Patrick anymore.
 I'd like to soon merge this
 
