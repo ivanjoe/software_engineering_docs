@@ -21,4 +21,4 @@ I'd like to soon merge this
 
 ** My addition **
 
-### know there was something to discuss about
+### now there is nothing to discuss about
